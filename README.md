@@ -18,6 +18,10 @@ This project is an end-to-end solution that helps Instagram users predict engage
 - `2024-05-27 23-13-051.mp4`: Video file related to the project.
 - `requirements.txt`: Lists the required Python dependencies.
 
+## Project Demonstration
+![](https://github.com/ssansskarr/Instagram-Reach-Prediction-and-Hashtag-Generation/blob/main/2024-05-2723-13-051-ezgif.com-video-to-gif-converter.gif)
+
+
 ## Getting Started
 1. Clone the repository: `git clone https://github.com/ssansskarr/Instagram-Engagement-Prediction.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
