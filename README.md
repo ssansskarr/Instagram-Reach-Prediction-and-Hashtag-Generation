@@ -1,2 +1,36 @@
-# Instagram-Reach-Prediction-and-Hashtag-Generation
-Achieving meaningful reach and engagement on these platforms can be a daunting task, often requiring a deep understanding of complex algorithms, audience preferences, and content optimization strategies. As someone fascinated by the intersection of digital marketing and data science, I created this impactful solution.
+# Instagram Engagement Prediction and Optimization System
+
+## Overview
+This project is an end-to-end solution that helps Instagram users predict engagement, classify post performance, and generate optimized captions and hashtags. By leveraging machine learning, clustering, and natural language processing techniques, this system empowers users to make data-driven decisions and maximize their Instagram engagement.
+
+## Features
+- Engagement Prediction: Predict the reach of future posts based on factors like hashtags, captions, and engagement metrics using regression models.
+- Post Performance Classification: Classify posts into high performing, average performing, and low performing categories using K-Means clustering.
+- Caption and Hashtag Generation: Generate optimized captions and hashtags for uploaded images using APIs to enhance post engagement.
+- User-Friendly Web App: Interact with the system through a Streamlit web application that allows users to input post metrics and upload images.
+
+## Repository Structure
+- `EDA_Prediction.ipynb`: Jupyter notebook for exploratory data analysis and prediction tasks.
+- `Instagram.csv`: Dataset used for training and evaluation.
+- `Project-II_Final.pdf`: Project documentation and report.
+- `README.md`: Project overview and documentation.
+- `app.py`: Source code for the Streamlit web application.
+- `2024-05-27 23-13-051.mp4`: Video file related to the project.
+- `requirements.txt`: Lists the required Python dependencies.
+
+## Getting Started
+1. Clone the repository: `git clone https://github.com/ssansskarr/Instagram-Engagement-Prediction.git`
+2. Install the required dependencies: `pip install -r requirements.txt`
+3. Run the web application: `streamlit run app.py`
+4. Access the application through your web browser and start predicting engagement, classifying posts, and generating captions and hashtags!
+
+## Future Enhancements
+- Improve the accuracy of the caption and hashtag generation tool.
+- Explore advanced deep learning techniques for more sophisticated predictions and recommendations.
+- Incorporate user feedback and adapt the system based on real-world usage patterns.
+
+## Contributing
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
