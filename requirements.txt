@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+pillow
+cohere
+python-dotenv
+plotly
+wordcloud
