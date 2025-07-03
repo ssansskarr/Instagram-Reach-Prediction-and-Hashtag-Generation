@@ -1,6 +1,6 @@
 # Instagram Engagement Prediction and Optimization System
 
-##Problem
+## Identified Problem
 The algorithms that power virality on social media platforms like Instagram are ultimately designed by humans — yet to most creators and marketers, they remain a black box. This makes it incredibly difficult to predict what kind of content will perform well. As a result, creators constantly struggle to navigate Instagram’s ever-changing algorithm, often relying on trial and error to optimize reach and engagement. Why can’t we reverse-engineer these patterns and build a system that predicts virality before content is even published?
 
 ## Overview
