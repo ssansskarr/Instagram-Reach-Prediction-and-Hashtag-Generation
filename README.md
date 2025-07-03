@@ -1,5 +1,8 @@
 # Instagram Engagement Prediction and Optimization System
 
+##Problem
+The algorithms that power virality on social media platforms like Instagram are ultimately designed by humans — yet to most creators and marketers, they remain a black box. This makes it incredibly difficult to predict what kind of content will perform well. As a result, creators constantly struggle to navigate Instagram’s ever-changing algorithm, often relying on trial and error to optimize reach and engagement. Why can’t we reverse-engineer these patterns and build a system that predicts virality before content is even published?
+
 ## Overview
 This project is an end-to-end solution that helps Instagram users predict engagement, classify post performance, and generate optimized captions and hashtags. By leveraging machine learning, clustering, and natural language processing techniques, this system empowers users to make data-driven decisions and maximize their Instagram engagement.
 
